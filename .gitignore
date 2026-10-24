@@ -1,0 +1,15 @@
+# credentials: never commit, never upload
+secrets/
+client_secret*.json
+token*.json
+*.pickle
+# personal / generated
+settings.json
+description_template.txt
+memory.json
+uploads.json
+logs/
+thumbnails/
+__pycache__/
+*.pyc
+*.mp4

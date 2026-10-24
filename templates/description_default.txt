@@ -1,0 +1,20 @@
+# Montage Uploader description template. Edit freely; lines starting with # are ignored.
+# Placeholders: {game} {song} {artists} {by_artists} (= " by <artists>" or nothing) {blurb} {tags_hash}
+# The [blurb ...] sections give the one-line game text, [tags] the YouTube tags (comma separated).
+{game} montage.
+
+Song: {song}{by_artists}
+I do not own the rights to this song. All rights belong to the original artist and label.
+
+{blurb}
+
+{tags_hash}
+
+[blurb CS2]
+Counter-Strike 2 is a tactical team shooter by Valve.
+[blurb Valorant]
+Valorant is a tactical team shooter by Riot Games.
+[blurb Rainbow Six Siege]
+Rainbow Six Siege is a tactical team shooter by Ubisoft.
+[tags]
+{game}, {game} montage, montage, kill montage, {song}
